@@ -3,13 +3,8 @@
 <title>Trevor Test</title>
 
 
-<body bgcolor = "Acbbef">
-
-<p align="center" style="font-size:25px;">
+<body>
 Trevor Odelberg
-</p>
-
-
 </body>
 
 
